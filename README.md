@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jchernandez827@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jchernandez87&theme=dark&show_icons=true&locale=en&layout=compact" alt="jchernandez87" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jchernandez87&theme=dark&show_icons=true&locale=en&layout=compact" alt="jchernandez87" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jchernandez87&theme=dark&show_icons=true&locale=en" alt="jchernandez87" /></p>
 
