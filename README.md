@@ -5,6 +5,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jchernandez87&theme=dark" alt="jchernandez87" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jchernandez87&theme=dark&show_icons=true&locale=en&layout=compact" alt="jchernandez87" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/juancar70771241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/juancar70771241" height="30" width="40" /></a>
