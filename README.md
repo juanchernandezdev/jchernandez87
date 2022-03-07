@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos</h1>
-<h3 align="center">I'm a software developer from Colombia currently studying to become a full-stack developer.</h3>
+<h3 align="center">I'm a front-end developer from Colombia currently studying to become a full-stack developer.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jchernandez87&theme=dark&show_icons=true&locale=en" alt="jchernandez87" /></p>
 
