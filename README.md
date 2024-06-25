@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos</h1>
 <h3 align="center">I'm a JavaScript and React developer from Colombia currently searching for new opportunities.</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jchernandez87&theme=dark&show_icons=true&locale=en" alt="jchernandez87" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanchernandezdev&theme=dark&show_icons=true&locale=en" alt="juanchernandezdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jchernandez87&theme=dark" alt="jchernandez87" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanchernandezdev&theme=dark" alt="jchernandez87" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jchernandez87&theme=dark&show_icons=true&locale=en&layout=compact" alt="jchernandez87" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanchernandezdev&theme=dark&show_icons=true&locale=en&layout=compact" alt="juanchernandezdev" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
